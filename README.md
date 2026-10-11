@@ -8,6 +8,9 @@
 
 Composable visual effects for Compose Multiplatform.
 
+This Compose Fluent fork adds an experimental WinUI MinGW x64 build for Haze core and Blur.
+See the [Windows build profile](winui/README.md) for local Maven and composite builds.
+
 https://github.com/user-attachments/assets/836dd79a-abdc-4cdc-b27d-baee394c1e26
 
 Haze provides hardware-accelerated visual effects for Compose Multiplatform — Android, iOS, macOS, Desktop, and Web. Its modular Haze 2 API lets you apply source-backed or own-content Blur, refraction-driven Glass, and custom effects with explicit, reusable configuration.
